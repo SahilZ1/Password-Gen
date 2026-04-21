@@ -17,4 +17,4 @@ Generated passwords should be stored securely; consider using a password manager
 **Potential Enhancements:**
 Add features for including or excluding specific character sets to tailor password strength requirements.
 Introduce a batch generation option for producing multiple passwords in a single run.
-Implement a password strength indicator to evaluate complexity and suggest adjustments.
+Implement a password strength indicator to evaluate complexity and suggest adjustment
